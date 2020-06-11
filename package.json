@@ -1,0 +1,22 @@
+{
+  "name": "sorting",
+  "version": "1.0.0",
+  "description": "Studying sorting algorithms",
+  "main": "bubbe-sort.test.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViniciusTavares/sorting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViniciusTavares/sorting/issues"
+  },
+  "homepage": "https://github.com/ViniciusTavares/sorting#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
